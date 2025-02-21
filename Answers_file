@@ -1,0 +1,54 @@
+#SE_Day1_Assignment
+#Part 1: Introduction to Software Engineering
+#Answer on Q1.
+Software Engineering is the process of designing, building, testing and maintaining software applications.SE plays an important role in technology as it applies engineering principles in creating reliable, efficient and scalable software solutions.
+
+#Answer on Q2
+-The transition from art to a structured methodology;this saw the introduction of formal methods which include structured development processes, planning and quality control in software creation.The term software engineering was also first coined then.
+-Development of modeling approaches;developers began using graphical models and diagrams to design and visualize system structures before coding.
+-Process-Oriented Development and Agile Methodologies;led to a shift from rigid processes to flexible , customer focused development.The Agile Manifesto led to advocating for adaptive planning, collaboration and iterative development.
+
+#Answer on Q3
+Planning - Involves defining the software's purpose and scope.
+Requirement and Analysis - It outlines the software's purpose,features and functionalities.
+Designing - Involves building the framework,it ensures the software being created is user-friendly and performs its tasks efficiently.
+Coding - A software that is functional and efficient is developed.
+Testing - Involves a thorough examination of the software for any bugs or glitches that might have slipped through during coding.
+Deployment - Involves rolling out a well tested and fine tuned software to the end users.
+Maintenance - constant improvements on the software for best functioning to ensure customer expectations are met.
+
+#Answer on Q4
+Waterfall Model is a linear and sequential approach where each phase must be completed prior to moving on to the next step.
+The agile methodology is an iterative and incremental approach that emphasizes flexibility and collaboration between cross-functional teams, requirements and solutions evolve through collaboration and adaptation to change.
+Waterfall is best for stable well defined projects such as Banking and Financial Systems.
+Agile Methodology is ideal for fast changing, iterative development such as Web Applications.
+
+#Answer on Q5
+Software Developer - responsible for designing, coding , testing and maintaining software applications.
+Quality Assurance Engineer - they ensure softwares built meet quality standards before deployment.They execute and automate test cases to identify bugs and inconsistencies.
+Project Management - they oversee  the planning, execution and delivery of software projects.
+
+#Answer on Q6
+Integrated Development Environments (IDEs) - a software application that helps programmers develop software code efficiently.eg VsCode
+Version Control Systems (VCS) - a software tool that tracks changes made to files over time, allowing users to revert to previous versions, collaborate on projects effectively, and manage different iterations of a file.eg Git and GitHub
+
+#Answer on Q7
+Managing Complex Codebases - strategy: using modular design, following coding standards, and documenting code properly.
+Debugging and Fixing Bugs - strategy: Using debugging tools, writing unit tests, and applying test-driven development.
+
+#Answer on Q8
+Unit Testing - involves testing individual components or functions in isolation.It ensures small code units work correctly and bugs are caught early in development.
+Integration Testing - it tests interaction between multiple modules hence verifying that integrated parts work together as expected.
+System Testing - Evaluates an entire software system ensuring the whole system meets functional and  non-functional requirements.It detects performance, security and usability issues.
+Acceptance Testing - it confirms that the software meets the user requiremt. It determines if the product is ready for release.
+
+
+#Part 2: Introduction to AI and Prompt Engineering
+#Answer on Q1
+Prompt engineering is the practice of crafting effective inputs to optimize responses from AI models. It involves structuring queries with clear instructions, context, and constraints to achieve accurate, relevant, and useful outputs.
+Effective prompt engineering is important for guiding AI models to produce accurate and relevant outputs,thereby enhancing their performance and reliability.
+
+#Answer on Q2
+Vague prompt : "Suggest a project idea."
+Improved Prompt : "Propose a mobile application project that enables university students to exchange study materials , incorporating features for real-time collaboration and a rating system for shared resources."
+The improved prompt is more effective as it provides specific details about the desired project and the functionality hence clearly guiding the AI to generate a better project idea. 
